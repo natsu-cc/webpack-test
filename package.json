@@ -1,0 +1,40 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "webpack的Demo\u001b[D\u001b[D\u001b[D\u001b[D测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eumenides-cc/webpack-test.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "bin": {
+    "webpack": "./bin/init"
+  },
+  "author": "natsu",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0",
+    "chalk": "^2.4.1",
+    "ora": "^2.1.0",
+    "tildify": "^1.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Eumenides-cc/webpack-test/issues"
+  },
+  "homepage": "https://github.com/Eumenides-cc/webpack-test#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
