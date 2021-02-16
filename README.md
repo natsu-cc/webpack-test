@@ -27,7 +27,9 @@ package.json中配置了bin命令，方便执行打包命令
 
 #### usage
 npm install -g
+
 webpack
+
 node demo/dist/index.js
 
 测试demo参考文章：https://juejin.cn/post/6844903617971879949
